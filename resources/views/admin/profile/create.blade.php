@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 mx-auto">
-                <h2>My profile</h2>
+                <h2>My profileg</h2>
                 <p>111</p>
             </div>
         </div>
